@@ -1,0 +1,1 @@
+#this file is used to mark the directory as a package. It can be empty or contain initialization code for the package. When you import a package, Python will execute the code in the `__init__.py` file, allowing you to set up any necessary configurations or define package-level variables and functions.
